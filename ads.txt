@@ -1778,3 +1778,8 @@ video.unrulymedia.com, 9085206363819624071, RESELLER
 yahoo.com, 57289, RESELLER, e1a5b5b6e3255540
 yahoo.com, 59817, RESELLER, e1a5b5b6e3255540
 #Freecast END
+
+#TVIQ - #Sonobi - START
+sonobi.com, abf502fc41, RESELLER, d1a215d9eb5aee9e
+inventorypartnerdomain=sonobi.com
+#TVIQ - #Sonobi - END
